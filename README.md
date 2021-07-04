@@ -7,5 +7,5 @@ Controlling servos with microbit and bluetooth
 
 ![microbit](https://github.com/voyager1708/microbit/blob/main/images/makecode.microbit.png?raw=true)
 
-![microbit](https://github.com/voyager1708/microbit/blob/main/images/serrvo.mp4?raw=true)
+![microbit](https://github.com/voyager1708/microbit/blob/main/images/servo.mp4?raw=true)
 
